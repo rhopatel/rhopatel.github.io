@@ -5,7 +5,7 @@ permalink: /coursework
 ---
 
 
-| class | code | grade |
+| Class | Code | Grade |
 |-------|--------|---------|
 | Introduction to Deep Learning | 11-485 | A |
 | Advanced Data Analysis | 36-402 | B |
