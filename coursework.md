@@ -10,6 +10,7 @@ permalink: /coursework
 | Introduction to Deep Learning | 11-485 | A |
 | Advanced Data Analysis | 36-402 | B |
 | Neural Signal Processing | 42-632 | B |
+| Quantitative Genetics | 03-221 | A |
 | Modern Regression | 36-401 | A |
 | Statistical Computing | 36-350 | A |
 | Algorithms & Advanced Data Structures | 15-351 | A |
