@@ -19,10 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rohan Patel
-email: rohanp@andrew.cmu.ed
+email: rohanp@andrew.cmu.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rhopatel
+linkedin_username: rhopatel
 
 # Build settings
 theme: minima

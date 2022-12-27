@@ -17,7 +17,7 @@ permalink: /coursework
 | Introduction to Machine Learning | 10-301 | B |
 | Neural Computation | 15-686 | A |
 | Introduction to Statistical Inference | 36-226 | B |
-| Calculus III | 21-259 | A |
+| Calculus in Three Dimensions | 21-259 | A |
 | Introduction to Probability Theory | 36-225 | A |
 | Matrices and Linear Transformations | 21-241 | A |
 | Concepts of Mathematics | 21-127 | A |

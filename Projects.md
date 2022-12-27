@@ -5,4 +5,46 @@ permalink: /projects/
 ---
 
 
+# NeuroTechX SC Hackathon: EEG-based painting software
+##### Sep 2022 - present
 
+- Lead student teams to design & implement hands-free painting software, using ML to decode SSVEP brain signals and increase accessibility for motor-impaired users
+
+
+&nbsp;
+
+# Attention-Based Speech Recognition
+##### Nov 2022 - Dec 2022
+
+- Built an end-to-end speech recognition system using attention mechanisms (from the [Listen, Attend and Spell paper](https://arxiv.org/pdf/1508.01211v2.pdf)), implementing the transformer architecture using NumPy and PyTorch to enable high-accuracy speech transcription on the LibriSpeech dataset
+
+- Acheived a final (private score) Levenshtein distance of 12.23 on Kaggle 
+
+- Part of the final homework for Introduction to Deep Learning (11-485)
+
+&nbsp;
+
+# Neural Image Reconstruction Using Gabor Filter Regression
+##### Jul 2021 - Nov 2021
+
+- Investigated a Gabor-filter linear regression approach towards decoding images from highly sparse 2-photon calcium imaging data from the primate V1 cortex
+
+- Conducted research as part of a summer role in the Lee Lab for Biological & Machine Intelligence
+
+
+&nbsp;
+
+# ChemCollective Virtual Laboratory
+##### Jul 2020 - Dec 2020
+
+- Developed the software for an NSF-sponsored virtual chemistry simulator (ChemCollective) which allows students and educators to design and perform their own lab experiments
+
+&nbsp;
+
+# ProteinEDU
+##### Oct 2019 - Dec 2019
+
+- Developed an educational interactive protein-folding game using Python to teach the users about the interactions between amino
+acids in the primary structure of proteins
+
+- Part of the final term project for Fundamentals of Programming (15-112)
