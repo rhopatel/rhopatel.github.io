@@ -14,3 +14,4 @@ permalink: /about-me/
 - ⚡ I'm graduating in S23 and currently searching for Data Science / ML opportunities, particularly in biotech/healthcare
 
 - 📫 Please feel free to reach out at rohanp@andrew.cmu.edu or at www.linkedin.com/in/rhopatel. Thanks!
+
