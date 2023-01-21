@@ -6,15 +6,16 @@ permalink: /projects/
 
 
 # NeuroTechX SC Hackathon: EEG-based painting software
-##### Sep 2022 - present
+#####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/SSVEP_Painter) Sep 2022 - present
 
 - Lead student teams to design & implement hands-free painting software, using ML to decode SSVEP brain signals and increase accessibility for motor-impaired users
+
 
 
 &nbsp;
 
 # Attention-Based Speech Recognition
-##### Nov 2022 - Dec 2022
+##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/IDL-hw4) Nov 2022 - Dec 2022 
 
 - Built an end-to-end speech recognition system using attention mechanisms (from the [Listen, Attend and Spell paper](https://arxiv.org/pdf/1508.01211v2.pdf)), implementing the transformer architecture using NumPy and PyTorch to enable high-accuracy speech transcription on the LibriSpeech dataset
 
@@ -25,7 +26,7 @@ permalink: /projects/
 &nbsp;
 
 # Neural Image Reconstruction Using Gabor Filter Regression
-##### Jul 2021 - Nov 2021
+##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/tangImageReconstruction) Jul 2021 - Nov 2021
 
 - Investigated a Gabor-filter linear regression approach towards decoding images from highly sparse 2-photon calcium imaging data from the primate V1 cortex
 
@@ -35,14 +36,14 @@ permalink: /projects/
 &nbsp;
 
 # ChemCollective Virtual Laboratory
-##### Jul 2020 - Dec 2020
+##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/vlab2) Jul 2020 - Dec 2020
 
 - Developed the software for an NSF-sponsored virtual chemistry simulator (ChemCollective) which allows students and educators to design and perform their own lab experiments
 
 &nbsp;
 
 # ProteinEDU
-##### Oct 2019 - Dec 2019
+##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/ProteinEDU) Oct 2019 - Dec 2019
 
 - Developed an educational interactive protein-folding game using Python to teach the users about the interactions between amino
 acids in the primary structure of proteins
