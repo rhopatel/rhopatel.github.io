@@ -4,6 +4,6 @@
 
 layout: home
 ---
-<font size= '7'>
+<font size= '35'>
 Hi, I'm Rohan!
 </font>
