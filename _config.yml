@@ -26,9 +26,10 @@ github_username:  rhopatel
 linkedin_username: rhopatel
 google_analytics: G-MBNLVQ85C5
 # Build settings
-theme: minima
++ remote_theme: jekyll/minima
+
 plugins:
-  - jekyll-feed
++ - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
