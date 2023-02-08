@@ -10,7 +10,7 @@ permalink: /projects/
 
 - Lead student teams to design & implement hands-free painting software, using ML to decode SSVEP brain signals and increase accessibility for motor-impaired users
 
-![plot_from_flashing_15hz_50](/files/plot_from_flashing_15hz_50.png)
+![plot_from_flashing_15hz](/files/plot_from_flashing_15hz.png)
 
 
 &nbsp;
@@ -24,7 +24,7 @@ permalink: /projects/
 
 - Part of the final homework for Introduction to Deep Learning (11-485)
 
-![LAS_1_small](/files/LAS_1_small.png) ![LAS_2_small](/files/LAS_2_small.png) ![LAS_3_small](/files/LAS_3_small.png)
+![LAS_1](/files/LAS_1.png) ![LAS_2](/files/LAS_2.png) ![LAS_3](/files/LAS_3.png)
 
 
 
