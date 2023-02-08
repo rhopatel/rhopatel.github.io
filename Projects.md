@@ -10,6 +10,7 @@ permalink: /projects/
 
 - Lead student teams to design & implement hands-free painting software, using ML to decode SSVEP brain signals and increase accessibility for motor-impaired users
 
+![plot from flashing 15hz](/files/plot_from_flashing_15hz_50.png)
 
 
 &nbsp;
@@ -23,6 +24,10 @@ permalink: /projects/
 
 - Part of the final homework for Introduction to Deep Learning (11-485)
 
+![LAS_1_small](/files/LAS_1_small.png) ![LAS_2_small](/files/LAS_2_small.png) ![LAS_3_small](/files/LAS_3_small.png)
+
+
+
 &nbsp;
 
 # Neural Image Reconstruction Using Gabor Filter Regression
@@ -32,6 +37,12 @@ permalink: /projects/
 
 - Conducted research as part of a summer role in the Lee Lab for Biological & Machine Intelligence
 
+![gabor_wavelet](/files/gabor_wavelet.png) ![tuningCurves10](/files/tuningCurves10.png)
+
+
+![original](/files/original.png) ![reconstruction](/files/reconstruction.png) ![gaborReconstruction](/files/gaborReconstruction.png)
+
+
 
 &nbsp;
 
@@ -39,6 +50,10 @@ permalink: /projects/
 ##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/vlab2) Jul 2020 - Dec 2020
 
 - Developed the software for an NSF-sponsored virtual chemistry simulator (ChemCollective) which allows students and educators to design and perform their own lab experiments
+
+
+![vlab_3_50](/files/vlab_3_50.png)
+
 
 &nbsp;
 
@@ -49,3 +64,5 @@ permalink: /projects/
 acids in the primary structure of proteins
 
 - Part of the final term project for Fundamentals of Programming (15-112)
+
+![maxresdefault_50](/files/maxresdefault_50.png)
