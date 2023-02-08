@@ -10,7 +10,7 @@ permalink: /projects/
 
 - Lead student teams to design & implement hands-free painting software, using ML to decode SSVEP brain signals and increase accessibility for motor-impaired users
 
-![plot from flashing 15hz](/files/plot_from_flashing_15hz_50.png)
+![plot_from_flashing_15hz_50](/files/plot_from_flashing_15hz_50.png)
 
 
 &nbsp;
