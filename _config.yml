@@ -24,11 +24,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rhopatel
 linkedin_username: rhopatel
-google_analytics: G-MBNLVQ85C5
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
