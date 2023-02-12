@@ -28,7 +28,15 @@ permalink: /projects/
 
 ![LAS_1](/files/LAS_1.png) ![LAS_2](/files/LAS_2.png) ![LAS_3](/files/LAS_3.png)
 
+&nbsp;
+# Beyond DDM: adding learning to drift-diffusion
+##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/Patel_BIX_F22/blob/main/Project/final_project.ipynb) Nov 2022 - Dec 2022
 
+- Researched and implemented the Drift-Diffusion Model (DDM) of cognitive psychology (a model for decision making in the brain) using the Sequential Probability Ratio Test to compare hypotheses
+
+- Extended the DDM by generalizing the model to remove underlying assumptions (distribution, mean, variance, etc), and applied supervised machine learning using a Support Vector Machine (from scikit-learn) to enable the model to learn from data
+
+![LAS_1](/files/DDM.png)
 
 &nbsp;
 
