@@ -5,14 +5,17 @@ layout: home
 Hi, I'm Rohan!
 </font>
 
+&nbsp;
 
 
-- 😄 I'm an senior undergrad double-majoring in Computational Neuroscience and Statistics & Machine Learning at Carnegie Mellon University
+- I'm an senior undergrad double-majoring in Computational Neuroscience and Statistics & Machine Learning at Carnegie Mellon University
 
-- 🤔 Last fall, I explored the field of DL through the course 11-485/685 Intro to Deep Learning
+- Last fall, I explored the field of DL through the course 11-485/685 Intro to Deep Learning
 
-- ⚡ I'm graduating in Spring 2023 and currently searching for Bioinformatics, Data Science, and Machine Learning opportunities, particularly in biotech/healthcare
+- Check out my [projects](https://rhopatel.github.io/projects/) and some relevant [courses](https://rhopatel.github.io/coursework) from my last few years @ CMU
 
-- 📫 Please feel free to reach out at [rohanp@andrew.cmu.edu](rohanp@andrew.cmu.edu) or at [www.linkedin.com/in/rhopatel](www.linkedin.com/in/rhopatel). Thanks!
+- I'm graduating in Spring 2023 and currently searching for Bioinformatics, Data Science, and Machine Learning opportunities, particularly in biotech/healthcare
+
+- Please feel free to reach out at [rohanp@andrew.cmu.edu](rohanp@andrew.cmu.edu) or at [www.linkedin.com/in/rhopatel](www.linkedin.com/in/rhopatel). Thanks!
 
 
