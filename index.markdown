@@ -16,6 +16,6 @@ Hi, I'm Rohan!
 
 - I'm graduating in Spring 2023 and currently searching for Bioinformatics, Data Science, and Machine Learning opportunities, particularly in biotech/healthcare
 
-- Please feel free to reach out at [rohanp@andrew.cmu.edu](rohanp@andrew.cmu.edu) or at [www.linkedin.com/in/rhopatel](www.linkedin.com/in/rhopatel). Thanks!
+- Please feel free to reach out at [rohanp@andrew.cmu.edu](rohanp@andrew.cmu.edu) or on [LinkedIn](https://www.linkedin.com/in/rhopatel). Thanks!
 
 
