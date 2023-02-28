@@ -8,8 +8,8 @@ permalink: /projects/
 #####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/golf-project) Jan 2023 - present
 
 - Collaborating with the CMU varsity golf team (DIII) as a statistical consultant for a capstone project
-- Working in a small team to analyze indoor golf simulator data from the state-of-the-art TrackMan system to provide actionable insights to the coach
-- Wrote code in R, using packages such as ggplot2 and the tidyverse, to produce high-quality data visualization to complement in-depth statistical modeling & analysis
+- Working in a small team to analyze indoor golf simulator data from the state-of-the-art TrackMan system to provide actionable insights to the golf team coach, for both the individual athlete and for the team as a whole
+- Wrote code in R (using packages such as ggplot2 and the tidyverse suite) to produce high-quality data visualization to complement in-depth statistical modeling & analysis
 
 ![driver](/files/driver.png) ![spin_loft_club](/files/spin_loft_club.png)
 
