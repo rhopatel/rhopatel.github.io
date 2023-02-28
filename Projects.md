@@ -4,9 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
+# Sports Analytics Capstone (36-493): Golf Project
+#####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/golf-project) Jan 2023 - present
+
+- Collaborating with the CMU varsity golf team (DIII) as a statistical consultant for a capstone project
+- Working in a small team to analyze indoor golf simulator data from the state-of-the-art TrackMan system to provide actionable insights to the coach
+- Wrote code in R, using packages such as ggplot2 and the tidyverse, to produce high-quality data visualization to complement in-depth statistical modeling & analysis
+
+![driver](/files/driver.png) ![spin_loft_club](/files/spin_loft_club.png)
+
 
 # NeuroTechX SC Hackathon: EEG-based painting software
-#####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/SSVEP_Painter) Sep 2022 - present
+#####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/SSVEP_Painter) Sep 2022 - Dec 2022
 
 - The first project of my club ([Tartan Neurotech](http://www.tartanneurotech.org/)) in the NeuroTechX 2022 Student Clubs Hackathon, an international neurotech competition
 - Led student teams to design & implement hands-free painting software, using ML to decode SSVEP brain signals and increase accessibility for motor-impaired users, with the goal of integrating eye-tracking control with neural signals for a seamless experience
