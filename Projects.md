@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Sports Analytics Capstone (36-493): Golf Project
+# Sports Analytics Capstone: Golf Project
 #####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/golf-project) Jan 2023 - present
 
 - Collaborating with the CMU varsity golf team (DIII) as a statistical consultant for a capstone project
@@ -33,7 +33,7 @@ permalink: /projects/
 
 - Acheived a final (private score) Levenshtein distance of 12.23 on Kaggle, after training for 30 epochs and employing techniques such as label smoothing, frequency masking, locked dropout, and weight decay
 
-- Part of the final homework for Introduction to Deep Learning (11-485) @ CMU
+- Part of the final assignment for Introduction to Deep Learning (11-485) @ CMU
 
 ![LAS_1](/files/LAS_1.png) ![LAS_2](/files/LAS_2.png) ![LAS_3](/files/LAS_3.png)
 
@@ -48,6 +48,18 @@ permalink: /projects/
 ![DDM](/files/DDM.png) ![DDM_2](/files/DDM_2.png)
 
 &nbsp;
+
+
+# Gaussian Mixture Models for Unsupervised Spike Train Sorting
+##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/ps6) Jul 2021 - Nov 2021
+- Implemented the Expectation-Maximization algorithm for Gaussian Mixture Models (GMM) in MATLAB to perform neural spike train sorting, as part of an assignment for Neural Signal Processing (42-632) @ CMU 
+- Built a unsupervised learning system for neural decoding (classification of spike trains), reached rapid convergence on clusters for real neural data provided by the Shenoy lab
+
+![NSP_1](/files/NSP_1.jpg) ![NSP_2](/files/NSP_2.jpg)
+
+
+&nbsp;
+
 
 # Neural Image Reconstruction Using Gabor Filter Regression
 ##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/tangImageReconstruction) Jul 2021 - Nov 2021
