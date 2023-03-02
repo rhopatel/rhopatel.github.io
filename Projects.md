@@ -51,7 +51,7 @@ permalink: /projects/
 
 
 # Gaussian Mixture Models for Unsupervised Spike Train Sorting
-##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/ps6) Jul 2021 - Nov 2021
+##### [![link to repo](/files/source.jpg)](https://github.com/rhopatel/ps6) Mar 2022 - Apr 2022
 - Implemented the Expectation-Maximization algorithm for Gaussian Mixture Models (GMM) in MATLAB to perform neural spike train sorting, as part of an assignment for Neural Signal Processing (42-632) @ CMU 
 - Built a unsupervised learning system for neural decoding (classification of spike trains), reached rapid convergence on clusters for real neural data provided by the Shenoy lab
 
