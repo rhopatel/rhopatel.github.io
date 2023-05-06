@@ -4,12 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-# Sports Analytics Capstone: Golf Project
-#####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/golf-project) Jan 2023 - present
 
-- Collaborating with the CMU varsity golf team (DIII) as a statistical consultant for a capstone project
-- Working in a small team to analyze indoor golf simulator data from the state-of-the-art TrackMan system to provide actionable insights to the golf team coach, for both the individual athlete and for the team as a whole
+# Natural Language Interfacing w/ Cozmo using GPT-3.5
+#####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/15-494/tree/master/final) Apr 2023 - present
+-  Built a Python-based system that takes user text input and automatically generates a syntactically-correct Finite State Machine (FSM) file using GPT-3.5, and executes the program on the robot in real-time
+-  GPT occasionally showcased its own flair - when prompted to "spin in a circle", it generated the following:
+
+![robot](/files/robot.jpg)
+
+# Exploring Golf Analytics From Trackman System: Consistency and Clustering Analysis
+#####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/golf-project) Jan 2023 - May 2023
+
+- Assisted the CMU varsity golf team (Div III) as a statistical consultant for a capstone project
+- Collaborated in a small team to analyze indoor golf simulator data from the state-of-the-art TrackMan system to provide actionable insights to the golf team coach, for the individual athlete and overall team
 - Wrote code in R (using packages such as ggplot2 and the tidyverse suite) to produce high-quality data visualization to complement in-depth statistical modeling & analysis
+- Our [poster](https://www.stat.cmu.edu/capstoneresearch/493files/poster1.pdf) won second place at CMU Meeting of the Minds, a showcase competition for undergraduate research
 
 ![driver](/files/driver.png) ![spin_loft_club](/files/spin_loft_club.png)
 
