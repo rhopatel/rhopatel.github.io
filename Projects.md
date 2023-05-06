@@ -8,9 +8,12 @@ permalink: /projects/
 # Natural Language Interfacing w/ Cozmo using GPT-3.5
 #####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/15-494/tree/master/final) Apr 2023 - present
 -  Built a Python-based system that takes user text input and automatically generates a syntactically-correct Finite State Machine (FSM) file using GPT-3.5, and executes the program on the robot in real-time
--  GPT occasionally showcased its own flair - when prompted to "spin in a circle", it generated the following:
+- Optimized accuracy and program validity through prompt engineering to base model *gpt-3.5-turbo*
+-  Found that GPT occasionally showcased its own flair - when prompted to "spin in a circle", it generated the following:
 
 ![robot](/files/robot.jpg)
+
+&nbsp;
 
 # Exploring Golf Analytics From Trackman System: Consistency and Clustering Analysis
 #####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/golf-project) Jan 2023 - May 2023
@@ -22,6 +25,7 @@ permalink: /projects/
 
 ![driver](/files/driver.png) ![spin_loft_club](/files/spin_loft_club.png)
 
+&nbsp;
 
 # NeuroTechX SC Hackathon: EEG-based painting software
 #####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/SSVEP_Painter) Sep 2022 - Dec 2022
