@@ -7,9 +7,9 @@ permalink: /projects/
 
 # Natural Language Interfacing w/ Cozmo using GPT-3.5
 #####  [![link to repo](/files/source.jpg)](https://github.com/rhopatel/15-494/tree/master/final) Apr 2023 - present
--  Built a Python-based system that takes user text input and automatically generates a syntactically-correct Finite State Machine (FSM) file using GPT-3.5, and executes the program on the robot in real-time
+- Built a Python-based system that takes user text input and automatically generates a syntactically-correct Finite State Machine (FSM) file using GPT-3.5, and executes the program on the robot in real-time
 - Optimized accuracy and program validity through prompt engineering to base model *gpt-3.5-turbo*
--  Found that GPT occasionally showcased its own flair - when prompted to "spin in a circle", it generated the following:
+- Found that GPT occasionally showcased its own flair - when prompted to "spin in a circle", it generated the following:
 
 ![robot](/files/robot.jpg)
 
