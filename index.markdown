@@ -8,7 +8,7 @@ Hi, I'm Rohan!
 &nbsp;
 
 
-- I'm an senior undergrad double-majoring in Computational Neuroscience and Statistics & Machine Learning at Carnegie Mellon University
+- I just graduated from Carnegie Mellon University with a double-major in Computational Neuroscience and Statistics & Machine Learning 
 
 - Last fall, I explored the field of DL through the course 11-485/685 Intro to Deep Learning
 
