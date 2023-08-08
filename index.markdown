@@ -8,7 +8,7 @@ Hi, I'm Rohan!
 &nbsp;
 
 
-- I graduated from Carnegie Mellon University in ASwith a double-major in Computational Neuroscience and Statistics & Machine Learning 
+- I graduated from Carnegie Mellon University with a double-major in Computational Neuroscience and Statistics & Machine Learning 
 
 - Last fall, I explored the field of DL through the course 11-485/685 Intro to Deep Learning
 
