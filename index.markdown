@@ -16,6 +16,6 @@ Hi, I'm Rohan!
 
 - I'm now working in the biotech industry at [AI Proteins](https://aiproteins.bio/) in Boston as a Computational Research Associate
 
-- Please feel free to reach out at [rohanp@andrew.cmu.edu](rohanp@andrew.cmu.edu) or on [LinkedIn](https://www.linkedin.com/in/rhopatel). Thanks!
+- Please feel free to reach out at [rohanapatel12@gmail.com](rohanapatel12@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rhopatel). Thanks!
 
 
